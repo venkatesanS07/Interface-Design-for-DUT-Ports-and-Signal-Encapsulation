@@ -1,5 +1,6 @@
 # Experiment 7: Interface Design for DUT Ports and Signal Encapsulation
-
+## Venkatesan S
+## 212223060296
 ---
 
 ## Aim  
@@ -127,8 +128,8 @@ module dut_tb;
 endmodule
 ```
 ### Simulation Output
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/944420db-f31b-487e-ba80-5f12ada7728d" />
 
---- PAste the output here
 
 ### Result
 
